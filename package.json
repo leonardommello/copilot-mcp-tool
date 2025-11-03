@@ -1,6 +1,6 @@
 {
     "name": "@leonardommello/copilot-mcp-server",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "GitHub Copilot CLI integration for Model Context Protocol clients - Full MCP capabilities with Tools, Resources, and Prompts",
     "license": "MIT",
     "author": "Leonardo M. Mello <leonardommello>",
