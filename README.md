@@ -10,6 +10,8 @@
 
 A Model Context Protocol (MCP) server that integrates GitHub Copilot CLI with MCP clients.
 
+<img src=".github/img/github.svg" alt="GitHub Copilot MCP Server" /></i>
+
 ## Features
 
 - **9 Tools** - Interactive Copilot commands for coding assistance
